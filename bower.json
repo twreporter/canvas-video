@@ -1,0 +1,17 @@
+{
+  "name": "canvas-video",
+  "homepage": "https://github.com/twreporter/canvas-video",
+  "authors": [
+    "TWReporter <contact@twreporter.org>",
+    "garfieldduck <garfieldduck@gmail.com>"
+  ],
+  "description": "a tiny library for manipulating a image sprite sheet on canvas as if it is playing a video",
+  "main": "canvas-video.js",
+  "keywords": [
+    "canvas",
+    "video",
+    "image",
+    "sprite"
+  ],
+  "license": "MIT"
+}
